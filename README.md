@@ -12,7 +12,9 @@
 3. Inside the src folder, create a separate class for each Java program.
 4. Run each class individually to view the output.
 
-## Scenario: Here is the 10 students CGPA [3.50, 3.52, 3.43, 3.63, 3.48, 3.32, 3.30, 3.60, 3.86, 3.75]
+### [Java_Projects_and_Solutions.docx](https://docs.google.com/document/d/1Nj2233id579y27GHf62TFATB86K3SYhJRpQPM78_7Ls/edit)
+
+### Scenario: Here is the 10 students CGPA [3.50, 3.52, 3.43, 3.63, 3.48, 3.32, 3.30, 3.60, 3.86, 3.75]
 ### Question-1: Find out who achieved the 2nd highest score. (without sorting,use linear searching algorithm)
   Solution: I used a for loop to traverse the array of scores and two variables (max for the highest score and sLargest for the second highest). Inside the loop, I used if-else conditions to update the second highest score whenever a new maximum is found.
 
